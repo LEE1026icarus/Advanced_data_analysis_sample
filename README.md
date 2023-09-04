@@ -1,7 +1,7 @@
 # Advanced_data_analysis 저장소
 ---
 
-<img src = "[cover.png](https://github.com/LEE1026icarus/Advanced_data_analysis_sample/issues/1#issue-1880547661)https://github.com/LEE1026icarus/Advanced_data_analysis_sample/issues/1#issue-1880547661" width="50%">
+<img src = "(data/KBL로고.png" width="80%">
 
 ---
 
@@ -12,4 +12,4 @@
 
 ---
 ## 기타 문의
-다른 문의 사항은 stats7445@gmail.com으로 메일을 보내주세요.
+다른 문의 사항은 0226sun@koreatech.ac.kr으로 메일을 보내주세요.
