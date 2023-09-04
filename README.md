@@ -1,7 +1,7 @@
 # Advanced_data_analysis 저장소
 ---
 
-<img src = "(data/KBL로고.png" width="80%">
+<img src = "data/KBL로고.png" width="80%">
 
 ---
 
